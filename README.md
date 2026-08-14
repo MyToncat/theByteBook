@@ -23,7 +23,7 @@
 ~~我会持续更新这个仓库的内容~~，如果想要关注可以点 `star` 。
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=isno/thebytebook&type=Date)](https://star-history.com/#isno/thebytebook&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=isno/thebytebook&type=Date)](https://star-history.dera.page/#isno/thebytebook&Date)
 <p><a href="https://github.com/isno/theByteBook">https://github.com/isno/theByteBook</a></p>
 
 
